@@ -1,0 +1,13 @@
+{
+    "manifest_version": 2,
+    "name": "Lyric Finding",
+    "version": "1.0",
+    "permissions": [
+        "contextMenus",
+        "tabs"
+    ],
+    "description": "Simple Lyric Finding",
+    "background": {
+        "scripts": ["background.js"]
+    }
+}
